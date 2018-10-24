@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+__pycache__
+*.pkl
+*.png
+twitter_auth.py
